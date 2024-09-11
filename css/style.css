@@ -287,7 +287,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(/img/bg.png) no-repeat;
+    background: url(/assets/bg-4.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 17rem;
@@ -312,7 +312,7 @@ section {
     color: var(--light-color);
     font-size: 1.7rem;
     padding: 1rem 0;
-    line-height: 1.8rem;
+    line-height: 2.8rem;
 }
 
 .home .content span {
